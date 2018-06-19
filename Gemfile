@@ -68,3 +68,8 @@ gem 'therubyracer'
 gem 'rake'
 gem 'jquery-rails'
 gem 'bootstrap-datepicker-rails'
+
+gem 'mailcatcher'
+
+gem 'devise'
+

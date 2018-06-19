@@ -1,0 +1,13 @@
+current directory: /home/barbara/projects/list/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+/usr/local/rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20180619-1587-1d5lazo.rb extconf.rb
+creating Makefile
+
+current directory: /home/barbara/projects/list/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/barbara/projects/list/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR="
+make: Цель «all» не требует выполнения команд.
+
+current directory: /home/barbara/projects/list/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR=" install
