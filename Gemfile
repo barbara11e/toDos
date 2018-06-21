@@ -72,4 +72,4 @@ gem 'bootstrap-datepicker-rails'
 gem 'mailcatcher'
 
 gem 'devise'
-
+gem 'cancan'
